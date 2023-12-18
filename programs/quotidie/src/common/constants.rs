@@ -1,0 +1,1 @@
+pub const DAY: i64 = 26 * 60 * 60;
